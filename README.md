@@ -52,12 +52,3 @@ Implémentation et tests de gestionnaires d’événements en Java.
 
 Découverte des mécanismes de callback et d’interfaces.
 
-👉 Avec ça, tu peux avoir une section Projets tutorés qui montre :
-
-Algorithmes & POO (C et Java).
-
-Interfaces graphiques (Swing).
-
-Réseaux et systèmes (prodcons → multithread, sockets si tu veux rajouter ton projet perso).
-
-Architecture logicielle (MVC).
